@@ -323,6 +323,8 @@
     "statsLink": "Stats",
     "supportLink": "Support",
     "supportTitle": "Buy the author a coffee",
+    "githubLink": "GitHub",
+    "githubTitle": "Open tools on GitHub",
     "moreLink": "More",
     "appStore": "App Store"
   },
@@ -477,6 +479,7 @@
     "exportJson": "Export JSON",
     "showingLines": "Showing lines {start}-{end} of {total}",
     "pageOf": "Page {current}/{total}",
+    "pageLabel": "Page",
     "linesPerPage": "{count} lines",
     "goToPage": "Go to:",
     "go": "Go",
@@ -718,7 +721,28 @@
     "deleteAccountDescription": "This will permanently delete your account and all associated data including flashcards, bookmarks, and learning progress. This action cannot be undone.",
     "deleteAccountConfirm": "Delete Account",
     "deleteAccountCancel": "Cancel",
-    "deletingAccount": "Deleting account..."
+    "deletingAccount": "Deleting account...",
+    "nomInputOn": "Nôm input is on — tap to type normally",
+    "nomInputOff": "Nôm input is off — tap to type Hán Nôm"
+  },
+  "assistant": {
+    "name": "Bé Na",
+    "beta": "Beta",
+    "tagline": "Hán Nôm helper",
+    "placeholder": "e.g. What are the Nôm readings of 𡗶?",
+    "ask": "Ask",
+    "asking": "Looking up…",
+    "signInRequired": "Sign in to use the assistant.",
+    "groundedLabel": "Verified against the dictionary",
+    "ungroundedLabel": "Could not verify — no answer given",
+    "sourcedFrom": "Based on {count} dictionary lookup(s).",
+    "disclaimer": "The assistant only reports what the dictionary contains. If a character is not in it, it will say so rather than guess.",
+    "errorBudget": "The assistant's daily limit has been reached. Please try again tomorrow.",
+    "errorUnavailable": "The assistant is temporarily unavailable. Please try again later.",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "openWidget": "Ask Bé Na",
+    "closeWidget": "Close",
+    "widgetEmpty": "Ask me about a character, a reading, or a meaning."
   },
   "auth": {
     "signUpBanner": {
@@ -752,9 +776,6 @@
     "tabPhonGian": "Trad ↔ Simp",
     "tabSoanNom": "Compose Nôm",
     "title": "Text Converter",
-    "imeTitle": "Nôm Input Method",
-    "imeSubtitle": "Type Vietnamese syllables, press number keys to select Chữ Nôm characters",
-    "openFullscreen": "Open fullscreen editor",
     "subtitle": "Convert between Romanized Vietnamese and Sino-Nôm",
     "directionVietToNom": "Romanized Vietnamese → Sino-Nôm",
     "directionNomToViet": "Sino-Nôm → Romanized Vietnamese",
@@ -839,7 +860,7 @@
     "getStarted": "Get Started",
     "slides": {
       "search": {
-        "title": "Search 10,000+ Characters",
+        "title": "Search 27,900+ Characters",
         "description": "Find any Hán Nôm character by text, pronunciation, or meaning with our comprehensive dictionary."
       },
       "handwriting": {

@@ -323,6 +323,8 @@
     "statsLink": "統計",
     "supportLink": "支持",
     "supportTitle": "請作者喝杯咖啡",
+    "githubLink": "GitHub",
+    "githubTitle": "GitHub 開源工具",
     "moreLink": "更多",
     "appStore": "App Store"
   },
@@ -477,6 +479,7 @@
     "exportJson": "匯出 JSON",
     "showingLines": "顯示第 {start}-{end} 行，共 {total} 行",
     "pageOf": "第 {current}/{total} 頁",
+    "pageLabel": "頁碼",
     "linesPerPage": "{count} 行",
     "goToPage": "前往：",
     "go": "前往",
@@ -514,6 +517,7 @@
     "addToFlashcards": "添加到閃卡",
     "added": "已添加",
     "flashcardAdded": "閃卡已添加",
+    "flashcardAddedDescSimple": "已加入你的閃卡",
     "flashcardAddedToDeckDesc": "已加入牌組「{deck}」",
     "flashcardExists": "閃卡已存在",
     "flashcardExistsDescSimple": "此字元已在您的閃卡中",
@@ -717,7 +721,28 @@
     "deleteAccountDescription": "此操作將永久刪除您的帳戶及所有相關資料，包括閃卡、書籤和學習進度。此操作無法撤銷。",
     "deleteAccountConfirm": "刪除帳戶",
     "deleteAccountCancel": "取消",
-    "deletingAccount": "正在刪除帳戶..."
+    "deletingAccount": "正在刪除帳戶...",
+    "nomInputOn": "喃字輸入已開啟 — 點按以正常輸入",
+    "nomInputOff": "喃字輸入已關閉 — 點按以輸入漢喃"
+  },
+  "assistant": {
+    "name": "Bé Na",
+    "beta": "測試版",
+    "tagline": "漢喃助手",
+    "placeholder": "例如：𡗶 有哪些喃音？",
+    "ask": "詢問",
+    "asking": "查詢中…",
+    "signInRequired": "請登入以使用助手。",
+    "groundedLabel": "已與字典核對",
+    "ungroundedLabel": "無法核實 — 未提供答案",
+    "sourcedFrom": "基於 {count} 次字典查詢。",
+    "disclaimer": "助手僅回報字典中的內容。若字典沒有該字元，助手會明說而非猜測。",
+    "errorBudget": "助手今日的使用額度已用盡，請明天再試。",
+    "errorUnavailable": "助手暫時無法使用，請稍後再試。",
+    "errorGeneric": "發生錯誤，請重試。",
+    "openWidget": "詢問 Bé Na",
+    "closeWidget": "關閉",
+    "widgetEmpty": "可以問我字元、讀音或含義。"
   },
   "auth": {
     "signUpBanner": {
@@ -835,7 +860,7 @@
     "getStarted": "開始使用",
     "slides": {
       "search": {
-        "title": "搜尋 10,000+ 漢字",
+        "title": "搜尋 27,900+ 漢字",
         "description": "通過文字、讀音或含義查找任何漢喃字，使用我們的綜合詞典。"
       },
       "handwriting": {
