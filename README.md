@@ -37,7 +37,9 @@ No need to run any code or set up an environment — these are plain JSON and CS
 
 ## License
 
-Contributions are released under the same license as the main project. By submitting a PR you agree your contribution may be incorporated into the Nôm Na Việt app.
+Contributions are released under [CC0 1.0](LICENSE) (public domain dedication). By submitting a PR you confirm the contribution is your own work, or that you have the right to release it under CC0, and you agree it may be incorporated into the Nôm Na Việt app.
+
+Data that was pre-filled from third-party sources keeps its original terms. See [NOTICE.md](NOTICE.md) for which files and columns that covers.
 
 ## Questions
 
