@@ -76,7 +76,7 @@ Maintainers review each pair (variant relationships can be subtle — a wrong pa
 
 ## Questions
 
-Open an [Issue](../../issues) on this repo, or email nhatvu148@gmail.com. Especially welcome:
+Open an [Issue](../../issues) on this repo, or email hello@nomnaviet.com. Especially welcome:
 
 - Suggestions for which **regional** Vietnamese scribal traditions are underrepresented
 - Pointers to **printed sources** (woodblock collections, regional dictionaries) where variant pairs are documented

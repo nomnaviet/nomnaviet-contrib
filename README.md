@@ -43,4 +43,4 @@ Data that was pre-filled from third-party sources keeps its original terms. See 
 
 ## Questions
 
-Open an [Issue](../../issues) or email nhatvu148@gmail.com.
+Open an [Issue](../../issues) or email hello@nomnaviet.com.
