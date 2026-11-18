@@ -15,6 +15,10 @@ This repo is the **canonical source** for translations and the **staging area** 
 
 More content areas may be added later (e.g. historical dictionary digitization).
 
+### Characters written as a sequence
+
+Some Nôm characters are written as a base character plus a variation selector (U+E0100–E01EF) or the cá/nháy reading mark (U+16FF0/U+16FF1), NOM Foundation's standard form for many characters NomNaTong used to keep in its Private Use Area. Such a character is one character, so in these CSVs its `Character` cell holds the whole sequence and its `Unicode` cell lists every codepoint, space-separated: `U+4E99 U+16FF0`. Its stroke count and radical are those of the glyph it names, which can differ from its base character's (a variant glyph can have a stroke more or less). Keep the sequence together when you edit, a spreadsheet that drops the invisible selector turns it into a different character.
+
 ## How to contribute
 
 If you're new to GitHub:
